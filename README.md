@@ -18,9 +18,7 @@
     Each scenario is recorded with two different backgrounds and under two different lighting conditions. The first background condition involves a plain tabletop with the subject wearing a texture-less t-shirt, while the second background condition involves the table covered with a graphics-printed tablecloth and the subject wearing a patterned shirt. The lighting conditions include ceiling room lights and controlled lights. The 95 configurations are executed by a different subject for each scenario and for each background/illumination condition.Each scenario is recorded with two different backgrounds and under two different lighting conditions. The first background condition involves a plain tabletop with the subject wearing a texture-less t-shirt, while the second background condition involves the table covered with a graphics-printed tablecloth and the subject wearing a patterned shirt. The lighting conditions include ceiling room lights and controlled lights. The 95 configurations are executed by a different subject for each scenario and for each background/illumination condition.</p>
 <br>
 <hr style="margin-left: 4em;margin-right: 4em;" color="#eeeeee">
-<p style="margin-left: 4em;width: auto;height: auto;">
-    <b>Video aspect:</b></p>
-<br>
+##Video aspect:  
 <hr style="margin-left: 4em;margin-right: 4em;" color="#eeeeee">
 <p style="margin-left: 4em;width: auto;height: auto;">
     <b>Audio aspect:</b></p>
