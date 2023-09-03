@@ -8,19 +8,15 @@
     Overview of data collection:</p>
 <div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img1.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;"></div>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
-    Data collection demonstration video:
-</p>
+    Data collection demonstration video:</p>
 <video controls="controls" width="320" height="240" style="display:block; margin:auto;">
     <div align=center><source src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/001.mp4" style="display:block; margin:auto;width: 100%; height: 100%; object-fit: fill"></div>
 </video>
-<br>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
     Each scenario is recorded with two different backgrounds and under two different lighting conditions. The first background condition involves a plain tabletop with the subject wearing a texture-less t-shirt, while the second background condition involves the table covered with a graphics-printed tablecloth and the subject wearing a patterned shirt. The lighting conditions include ceiling room lights and controlled lights. The 95 configurations are executed by a different subject for each scenario and for each background/illumination condition.Each scenario is recorded with two different backgrounds and under two different lighting conditions. The first background condition involves a plain tabletop with the subject wearing a texture-less t-shirt, while the second background condition involves the table covered with a graphics-printed tablecloth and the subject wearing a patterned shirt. The lighting conditions include ceiling room lights and controlled lights. The 95 configurations are executed by a different subject for each scenario and for each background/illumination condition.</p>
-<br>
 <h1 style="margin-left: 2em;width: auto;height: auto;"></h1>
 <p style="margin-left: 4em;width: auto;height: auto;">
-    <b>Video aspect:</b>
-</p>
+    <b>Video aspect:</b></p>
 <h1 style="margin-left: 2em;width: auto;height: auto;"></h1>
 <p style="margin-left: 4em;width: auto;height: auto;">
     <b>Audio aspect:</b></p>
@@ -28,12 +24,9 @@
     Audio waveform and spectrum of water poured into glass in our dataset：</p>
 <div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img2.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;"></div>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
-    Logarithmic Mel spectrogram converted from the original waveform：
-</p>
+    Logarithmic Mel spectrogram converted from the original waveform：</p>
 <div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img3.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;"></div>
-<br>
 <h1 style="margin-left: 2em;width: auto;height: auto;"></h1>
 <p style="margin-left: 4em;width: auto;height: auto;">
-    <b>Tactile aspect:</b>
-</p>
+    <b>Tactile aspect:</b></p>
 <div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img4.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;"></div>
