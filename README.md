@@ -4,16 +4,16 @@
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
     The dataset consists of 1,140 audio-visual recordings with 12 human subjects manipulating 15 containers, split into 5 cups, 5 drinking glasses, and 5 food boxes. These containers are made of different materials, such as plastic, glass and paper. Each container can be empty or filled with water, rice or pasta at two different levels of fullness: 50% and 90% with respect to the capacity of the container. The combination of containers and fillings results in a total of 95 configurations acquired for three scenarios with an increasing level of difficulty, caused by occlusions or subject motions:
 </p>
-<img src="../images/table1.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;">
+<img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/table1.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;">
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
     Overview of data collection:
 </p>
-<img src="../images/img1.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;">
+<img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img1.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;">
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
     Data collection demonstration video:
 </p>
 <video controls="controls" width="320" height="240" style="display:block; margin:auto;">
-    <source src="../images/001.mp4" style="display:block; margin:auto;width: 100%; height: 100%; object-fit: fill">
+    <source src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/001.mp4" style="display:block; margin:auto;width: 100%; height: 100%; object-fit: fill">
 </video>
 <br>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
@@ -36,11 +36,11 @@
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
     Audio waveform and spectrum of water poured into glass in our dataset：
 </p>
-<img src="../images/img2.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;">
+<img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img2.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;">
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
     Logarithmic Mel spectrogram converted from the original waveform：
 </p>
-<img src="../images/img3.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;">
+<img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img3.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;">
 
 <br>
 <hr style="margin-left: 4em;margin-right: 4em;" color="#eeeeee">
@@ -48,4 +48,4 @@
 <p style="margin-left: 4em;width: auto;height: auto;">
     <b>Tactile aspect:</b>
 </p>
-<img src="../images/img4.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;">
+<img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img4.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;">
