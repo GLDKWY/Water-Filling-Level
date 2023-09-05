@@ -3,7 +3,7 @@
 <p style="margin-left: 4em;width: auto;height: auto;"><b>Dataset:</b> Audio, Tactile and Visual perception for Filling Level Estimation（ATVfle）</p>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
     The dataset consists of 1,140 audio-visual recordings with 12 human subjects manipulating 15 containers, split into 5 cups, 5 drinking glasses, and 5 food boxes. These containers are made of different materials, such as plastic, glass and paper. Each container can be empty or filled with water, rice or pasta at two different levels of fullness: 50% and 90% with respect to the capacity of the container. The combination of containers and fillings results in a total of 95 configurations acquired for three scenarios with an increasing level of difficulty, caused by occlusions or subject motions:</p>
-<div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/table1.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;"></div>
+<div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/table1.png" style="margin-left: auto;margin-right:auto;display:block;width: 50%;height: 50%;"></div>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
     Overview of data collection:</p>
 <div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img1.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;"></div>
