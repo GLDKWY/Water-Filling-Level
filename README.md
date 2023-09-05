@@ -34,4 +34,4 @@
     To assess the force variations applied to the grip jaw during the pouring process, we equipped a compact tactile sensor known as the L3 F-TOUCH which comprising a single chip, a micro-camera, and a trapezium-shaped rubber layer adorned with 40 black circular markers arranged in a 4 × 10 array.</p>
 <div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img4.png" style="margin-left: auto;margin-right:auto;display:block;width: 50%;height: 50%;"></div>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
-    The display effect of the sensor is as follows：</p>https://github.com/GLDKWY/Water-Filling-Level/assets/101457743/3885c57b-87ff-4c34-97b4-c21186ce2001
+    The display effect of the sensor is as follows：</p>[https://github.com/GLDKWY/Water-Filling-Level/assets/101457743/3885c57b-87ff-4c34-97b4-c21186ce2001](https://github.com/GLDKWY/Water-Filling-Level/assets/101457743/9e09cf86-2682-4dbe-acda-a5b64201cd30)https://github.com/GLDKWY/Water-Filling-Level/assets/101457743/9e09cf86-2682-4dbe-acda-a5b64201cd30
