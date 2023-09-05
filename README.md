@@ -18,7 +18,7 @@
 <p style="margin-left: 4em;width: auto;height: auto;">
     <b>Video aspect:</b></p>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
-    For the ease of calculating the percentage of water filling relative to the container capacity, we employed red dye in the water and positioned a Logitech C270 HD WEBCAM directly in front of the target container at a distance of 440 mm. Images were captured with a resolution of $1920 \times 1080$ at 24 fps.</p>
+    For the ease of calculating the percentage of water filling relative to the container capacity, we employed red dye in the water and positioned a Logitech C270 HD WEBCAM directly in front of the target container at a distance of 440 mm. Images were captured with a resolution of 1920 × 1080 at 24 fps.</p>
 <h1 style="margin-left: 2em;width: auto;height: auto;"></h1>
 <p style="margin-left: 4em;width: auto;height: auto;">
     <b>Audio aspect:</b></p>
@@ -34,5 +34,5 @@
 <p style="margin-left: 4em;width: auto;height: auto;">
     <b>Tactile aspect:</b></p>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
-    To assess the force variations applied to the grip jaw during the pouring process, we equipped a compact tactile sensor known as the L3 F-TOUCH \cite{li20233} which comprising a single chip, a micro-camera, and a trapezium-shaped rubber layer adorned with 40 black circular markers arranged in a $4 \times 10$ array.</p>
+    To assess the force variations applied to the grip jaw during the pouring process, we equipped a compact tactile sensor known as the L3 F-TOUCH which comprising a single chip, a micro-camera, and a trapezium-shaped rubber layer adorned with 40 black circular markers arranged in a 4 × 10 array.</p>
 <div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img4.png" style="margin-left: auto;margin-right:auto;display:block;width: 30%;height: 30%;"></div>
