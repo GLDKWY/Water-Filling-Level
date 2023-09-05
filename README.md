@@ -8,7 +8,7 @@
     Overview of data collection:</p>
 <div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img1.png" style="margin-left: auto;margin-right:auto;display:block;width: 50%;height: 50%;"></div>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
-    Data collection demonstration video:https://github.com/GLDKWY/Water-Filling-Level/assets/101457743/e6f6dbdb-a875-4cbc-be72-647543d7da47</p>
+    Data collection demonstration video:    https://github.com/GLDKWY/Water-Filling-Level/assets/101457743/e6f6dbdb-a875-4cbc-be72-647543d7da47</p>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
     Each scenario is recorded with two different backgrounds and under two different lighting conditions. The first background condition involves a plain tabletop with the subject wearing a texture-less t-shirt, while the second background condition involves the table covered with a graphics-printed tablecloth and the subject wearing a patterned shirt. The lighting conditions include ceiling room lights and controlled lights. The 95 configurations are executed by a different subject for each scenario and for each background/illumination condition.Each scenario is recorded with two different backgrounds and under two different lighting conditions. The first background condition involves a plain tabletop with the subject wearing a texture-less t-shirt, while the second background condition involves the table covered with a graphics-printed tablecloth and the subject wearing a patterned shirt. The lighting conditions include ceiling room lights and controlled lights. The 95 configurations are executed by a different subject for each scenario and for each background/illumination condition.</p>
 <h1 style="margin-left: 2em;width: auto;height: auto;"></h1>
@@ -34,4 +34,4 @@
     To assess the force variations applied to the grip jaw during the pouring process, we equipped a compact tactile sensor known as the L3 F-TOUCH which comprising a single chip, a micro-camera, and a trapezium-shaped rubber layer adorned with 40 black circular markers arranged in a 4 × 10 array.</p>
 <div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img4.png" style="margin-left: auto;margin-right:auto;display:block;width: 50%;height: 50%;"></div>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
-    The display effect of the sensor is as follows：</p>https://github.com/GLDKWY/Water-Filling-Level/assets/101457743/9e09cf86-2682-4dbe-acda-a5b64201cd30
+    The display effect of the sensor is as follows：  https://github.com/GLDKWY/Water-Filling-Level/assets/101457743/9e09cf86-2682-4dbe-acda-a5b64201cd30</p>
