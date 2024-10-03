@@ -35,3 +35,6 @@
 <div align=center><img src="https://github.com/GLDKWY/Water-Filling-Level/blob/main/images/img4.png" style="margin-left: auto;margin-right:auto;display:block;width: 50%;height: 50%;"></div>
 <p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
     The display effect of the sensor is as follows：  https://github.com/GLDKWY/Water-Filling-Level/assets/101457743/9e09cf86-2682-4dbe-acda-a5b64201cd30</p>
+    <b>We also provide trained model .pth files:</b></p>
+<p style="text-indent:2em;word-wrap: break-word;word-break: break-word;margin-left: 4em;margin-right: 4em;">
+    For more details please refer to https://pan.baidu.com/s/1KfWOVJmGzi7n9NE5O3aDaA?pwd=58rw  the retrive code is 58rw.</p>
